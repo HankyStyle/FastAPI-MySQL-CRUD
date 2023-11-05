@@ -10,7 +10,9 @@
 
 Python 3.6+
 FastAPI：pip install fastapi
+
 Uvicorn（用於啟動FastAPI應用程式）：pip install uvicorn
+
 MySQL數據庫(可以用 docker 來快速建置)
 ```
 docker-compose up
